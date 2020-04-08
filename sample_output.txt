@@ -1,0 +1,16 @@
+order, 1001, Filled, 0, -1
+order, 1002, Filled, 0, -1
+order, 1003, Canceled, 200, -1
+order, 1004, Filled, 0, -1
+order, 1005, New, 500, 1
+order, 1006, PartiallyFilled, 600, 0
+order, 1007, Filled, 0, -1
+order, 1008, New, 600, 0
+order, 1009, New, 500, 0
+order, 1010, New, 700, 0
+order, 1011, New, 1700, 0
+order, 1012, New, 1700, 2
+ask, 0, 12.5, 700, 1
+ask, 1, 12.7, 1700, 1
+bid, 0, 12.2, 500, 1
+bid, 1, 12.1, 2800, 3
